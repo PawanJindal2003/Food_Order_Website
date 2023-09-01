@@ -1,2 +1,3 @@
 # Food_Order_Website
-Created with CodeSandbox
+My second project in which I applied more deep concepts of JavaScript
+
